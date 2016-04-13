@@ -47,7 +47,7 @@
                     <connections>
                         <outlet property="passwordTextField" destination="XJ3-2o-JTn" id="Zyu-CG-4Jx"/>
                         <outlet property="usernameTextField" destination="v5u-ZI-6e5" id="r4Y-Gt-qaa"/>
-                        <segue destination="ndI-GB-CvK" kind="presentation" identifier="loginToCreateAccountSeque" id="KyV-Hb-LEp"/>
+                        <segue destination="ndI-GB-CvK" kind="presentation" identifier="loginToCreateAccountSegue" id="KyV-Hb-LEp"/>
                         <segue destination="yhW-Wd-2Zn" kind="presentation" identifier="loginToMainSegue" id="8qZ-f5-UPN"/>
                     </connections>
                 </viewController>
